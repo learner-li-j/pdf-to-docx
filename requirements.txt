@@ -1,0 +1,21 @@
+# Core dependencies
+python-docx>=0.8.11
+
+# Conversion backends
+pdfplumber>=0.9.0
+pdf2image>=1.16.0
+pytesseract>=0.3.10
+pymupdf>=1.23.0
+
+# GUI
+tkinter  # Usually comes with Python
+
+# System utilities
+Pillow>=9.0.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
